@@ -1,0 +1,28 @@
+.menu ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    text-decoration: none;
+    font-size: 1.3rem;
+    
+}
+li :link{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(51, 121, 143);
+    padding: 20px;
+    
+}
+.ul li {
+        display: flex;
+        align-items: stretch;
+        border: 3px solid red;
+        padding: 18px;
+
+}
+
